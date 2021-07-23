@@ -1,3 +1,22 @@
+.home-back{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    width: 200px;
+    height: 40px;
+    background-color: #32341F;
+    border: 3px solid #FFFFFF;
+}
+
+.style-homeback{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+
+
+
 /* Global Styles */
 :root {
 	--primary-color: #e50914;
