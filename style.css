@@ -79,6 +79,9 @@
     box-shadow: 5px 5px 10px!important;
   
 }
+.navbar-nav li a{
+    color: white;
+}
 
 .navbar-nav li a:hover {
     background-color: #FFFFFF;
