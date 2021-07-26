@@ -80,6 +80,20 @@
   
 }
 
+.navbar-nav li a:hover {
+    background-color: #FFFFFF;
+    color: #000000 !important;
+    border-radius: 5px;
+    font-weight: bolder;
+
+}
+
+@media screen and (max-width: 600px) {
+    .navbar-nav li a:hover {
+        padding-left: 10px;
+    }
+}
+
 
 
 /*-------Skills bar Css---*/
